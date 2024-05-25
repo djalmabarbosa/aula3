@@ -1,0 +1,15 @@
+---
+title: "Notas de aula dia 25 de maio"
+output: html_document
+date: "2024-05-25"
+---
+
+# Notas de aula
+
+## Definição de extensão
+
+### 5 i's da extensão
+
+1) Interação dialógica
+2) Interdisciplinariedade/interprofissionalidade
+3) 
